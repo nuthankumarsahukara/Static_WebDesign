@@ -1,0 +1,119 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#navbar{
+    overflow: hidden;
+}
+.background{
+    height: 100vh;
+    margin: auto;
+    padding-top: 150PX;
+    background-color: lightblue;
+}
+.content{
+    height: 50%;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+.btnStyle{
+    border-radius: 12px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    margin: 15px;
+    background-color: lightgray;
+}
+.btnStyle:hover{
+    background-color: black;
+    color: white;
+}
+.card-img{
+    height: 250px;
+    width: 320px;
+    margin-top: 50px;
+    border-radius: 8px;
+    margin-left: 15px;
+}
+span{
+    font-style: italic;
+    font-family: roboto;
+    font-weight: bolder;
+}
+.logo{
+    border-radius: 150px;
+    height: 40px;
+    width: 50px;
+}
+
+.background-content{
+    background-image: url(img/login.webp);
+    background-size: cover;
+    height: 100vh;
+    margin: auto;
+    padding: 150px;
+}
+
+.background-signup{
+    background-image: url(img/signup.jpg);
+    background-size: cover;
+    height: 100vh;
+    padding: 100px;
+}
+
+.background-contact{
+    background-image: url(img/contact.jpg);
+    background-size: cover;
+    height: 100vh;
+    padding: 100px;
+}
+
+.background-about{
+    background-color: lightskyblue;
+    background-size: cover;
+    padding: 100px;
+}
+
+.card-img1{
+    height: 250px;
+    width: 320px;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.card-abt{
+    margin:auto;
+    background-color: lightgrey;
+    border-radius: 15px;
+    width: 50vw;
+    padding: 10px;
+}
+
+.about-card{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.heading{
+    margin-left: 15px;
+}
+.form_card{
+    width: 30vw;
+    padding: 30px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.form_card1{
+    width: 25vw;
+    padding: 80px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+.map{
+    margin-left: 170px;
+    border-radius: 5px;
+    padding: 16px;
+}
